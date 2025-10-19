@@ -6,11 +6,10 @@ This small utility collects important dates from the Cook County Assessor's Asse
 
 ## Quick start
 
-```bash
-git clone https://github.com/<your-username>/ccao-calendar-scraper.git
-cd ccao-calendar-scraper
-python -m venv .venv
-# Activate the venv: source .venv/bin/activate  (Windows: .venv\Scripts\activate)
+```git clone https://github.com/jbm999s/ccao-calendar-collector.git
+cd ccao-calendar-collector
+python3 -m venv venv
+source venv/bin/activate  # (Windows: venv\Scripts\activate)
 pip install -r requirements.txt
 python ccao_calendar_collector.py
 ```
