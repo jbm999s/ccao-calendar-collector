@@ -9,11 +9,11 @@ Tracking and Visualizing Cook County Assessment Deadlines
 ## Overview
 
 **CCAO Calendar Collector** is a lightweight Python utility that retrieves official publication and appeal deadline data from the [Cook County Assessor’s Assessment Calendar](https://www.cookcountyassessor.com/assessment-calendar-and-deadlines) and saves it as a clean Excel workbook.  
-No login, API key, or scraping credentials are required — just run it locally and get structured data, ready for analysis.
+Just run it locally and get structured data, ready for analysis.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/jbm999s/ccao-calendar-collector.git
