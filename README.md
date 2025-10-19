@@ -1,4 +1,6 @@
-# CCAO Calendar Collector
+<img width="1536" height="1024" alt="calendar collector" src="https://github.com/user-attachments/assets/178f5707-1b3b-4478-95eb-ce037766602b" />
+
+## CCAO Calendar Collector
 
 This small utility collects important dates from the Cook County Assessor's Assessment Calendar and writes a clean Excel spreadsheet for easy reference. No Google credentials or external APIs are required.
 
